@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>Demonstrate HTML paragraph</title>
+</head>
+<body>
+<p>
+A “discipline” is defined as a grouping of courses that share common academic or vocational preparation, which are typically defined by a degree or degrees (MFA, MA, BA, MS, etc), or specific professional preparation. Determined by local process, but Senate has regulatory authority.
+</p>
+</body>
+</html>

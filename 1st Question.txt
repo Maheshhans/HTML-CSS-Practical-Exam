@@ -1,0 +1,1 @@
+Ans= HTML links is that link which help us to connect one page to another page easily. like if we want to display our contact details then we have to make link with the name Contacts.

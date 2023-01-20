@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>Demonstrate HTML paragraph</title>
+</head>
+<body>
+<a href="https://www.facebook.com/add.a.link/">Facebook</a>
+<a href="https://www.google.com/">Google</a>
+<a href="https://mail.google.com/mail/u/0/#inbox">Google</a>
+</body>
+</html>
